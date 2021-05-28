@@ -5,8 +5,8 @@ import os, sys
 
 
 #CRED for S3
-ACCESS_KEY='AKIA4KZQ2KGZAYAREV26'
-SECRET_KEY='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'
+ACCESS_KEY=''
+SECRET_KEY=''
 
 
 def s3_upload(PATH,EXT, s3_bucket, ACCESS_KEY, SECRET_KEY):
